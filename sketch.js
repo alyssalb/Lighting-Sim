@@ -7,7 +7,7 @@ let positionChanged = false;
 let intensityChanged = false;
 
 function preload() {
-  img = loadImage("/Assets/Images/Background.jpg");
+  img = loadImage("https://alyssalb.github.io/Lighting-Sim//Assets/Background.jpg");
 }
 
 function setup() {
